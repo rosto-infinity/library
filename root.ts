@@ -17,5 +17,6 @@ function fibonacci(n: number): number[] {
 
 // Exemple d'utilisation
 const n = 10; // Nombre de termes à générer
+const n2 = 55; // Nombre de termes à générer
 const result = fibonacci(n);
 console.log(result); // Affiche la suite de Fibonacci
